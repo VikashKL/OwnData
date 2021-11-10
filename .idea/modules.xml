@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ApiTestPy/.idea/ApiTestPy.iml" filepath="$PROJECT_DIR$/../ApiTestPy/.idea/ApiTestPy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataPyMysql/.idea/DataPyMysql.iml" filepath="$PROJECT_DIR$/../DataPyMysql/.idea/DataPyMysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataQ.iml" filepath="$PROJECT_DIR$/.idea/DataQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ImgToPpt/.idea/ImgToPpt.iml" filepath="$PROJECT_DIR$/../ImgToPpt/.idea/ImgToPpt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LibraryManagement/.idea/LibraryManagement.iml" filepath="$PROJECT_DIR$/../LibraryManagement/.idea/LibraryManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gurulog/.idea/gurulog.iml" filepath="$PROJECT_DIR$/../gurulog/.idea/gurulog.iml" />
+    </modules>
+  </component>
+</project>
