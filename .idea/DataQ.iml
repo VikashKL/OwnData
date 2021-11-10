@@ -11,5 +11,7 @@
     <orderEntry type="module" module-name="LibraryManagement" />
     <orderEntry type="module" module-name="gurulog" />
     <orderEntry type="module" module-name="ImgToPpt" />
+    <orderEntry type="module" module-name="pythonProject" />
+    <orderEntry type="module" module-name="gitlj" />
   </component>
 </module>
